@@ -1,5 +1,6 @@
 Hi, I’m Oleksandr Bazentka and I am a HTML coder.
 Recently, I have been engaged in self-development and personal growth.
+
 My skills:
 - HTML coding & Frontend (HTML5, CSS3, JS, jQuery),
 high-quality, fast and adaptive html layout;
