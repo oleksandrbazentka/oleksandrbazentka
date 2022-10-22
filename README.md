@@ -9,6 +9,7 @@ high-quality, fast and adaptive html layout;
 My specializations:
 - HTML coding site (any);
 - Integrate site that you want with Wordpress.
+
 I do business - I live by business.
 
 <!---
